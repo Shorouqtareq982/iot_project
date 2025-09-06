@@ -106,4 +106,3 @@ flutter run
 * Push notifications for fire/rain/security alerts
 * Integration of hardware automation & cloud services
 
--
