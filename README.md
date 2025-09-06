@@ -66,7 +66,7 @@ It combines **hardware sensors & actuators**, **MQTT protocol**, **Firebase inte
 
 ### 🔧 Hardware Prototype (Makiet)
 
-![Hardware Prototype](images/makiet.png)
+![Hardware Prototype](images/22.png)
 
 ### ⚡ Proteus / Tinkercad / Dynamo Simulation
 
@@ -83,12 +83,7 @@ It combines **hardware sensors & actuators**, **MQTT protocol**, **Firebase inte
 2. Connect sensors (DHT11, Flame sensor, LDR, Rain sensor) and actuators (servo, LED, buzzer).
 
 ### Flutter App
-
-```bash
-cd flutter_app
-flutter pub get
-flutter run
-```
+![App](images/Technical_Proposal.png)
 
 ### Backend Setup
 
