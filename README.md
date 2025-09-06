@@ -83,7 +83,7 @@ It combines **hardware sensors & actuators**, **MQTT protocol**, **Firebase inte
 2. Connect sensors (DHT11, Flame sensor, LDR, Rain sensor) and actuators (servo, LED, buzzer).
 
 ### Flutter App
-![App](images/Technical_Proposal.png)
+![App](images/TechnicalProposal.png)
 
 ### Backend Setup
 
