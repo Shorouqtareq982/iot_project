@@ -1,6 +1,3 @@
-ممتاز 👌 عندك مشروع قوي جدًا، خليني أكتبلك **README.md** احترافي لبروجكت **IoT Smart Home Automation** باستخدام Flutter + MQTT + Firebase + Notifications + Authentication، وكمان هنجهّز مكان تضيف فيه صور الماكيت والسيميوليشن.
-
----
 
 # IoT Smart Home Automation 🏠⚡
 
